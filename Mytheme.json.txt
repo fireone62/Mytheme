@@ -5,7 +5,7 @@
     "version" : "1.0.0",
     "dofusVersion" : "2.55", 
     "description" : "Description de mon thème", 
-    "url" : "http://mywebsite.com/mytheme.zip",
+    "url" : "https://github.com/fireone62/Mytheme/raw/master/Mytheme.zip",
     "previewUrl" : "http://mywebsite.com/preview.jpg", 
     "creationDate" : "JJ/MM/AAAA", 
     "modificationDate" : "JJ/MM/AAAA"
